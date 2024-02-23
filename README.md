@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Gabriel</h1>
-<h3 align="center">A passionate Backend developer from Mexico!</h3>
+<h3 align="center">Frontend Developer from Mexico!</h3>
 
-- 🔭 I’m currently working on **Artemis Project**
+- 🔭 I’m currently working on **MedicFlow**
 - Interested in Competitive Programming
 - Learning web Development 
 
