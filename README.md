@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Sánchez</h1>
 <h3 align="center">Currently Web developer :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrosan26" alt="pedrosan26" /></a> </p>
-
 - I’m currently learning (Suffering) with **Rust**
 
 - 📫 Contact me: **pedrogsv01@gmail.com**
